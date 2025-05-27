@@ -1,1 +1,1 @@
-python px.py
+web: uvicorn px:app --host 0.0.0.0 --port $PORT
