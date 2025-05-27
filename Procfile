@@ -1,1 +1,1 @@
-web: python px.py
+python px.py
